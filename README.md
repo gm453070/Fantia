@@ -8,7 +8,7 @@ Fantia是由虎之穴（TORANOANA）于2016年推出的一个创作者与粉丝�
 
 ## Fantia支持支付宝付款吗？
 
-[如果想要使用支付宝或者微信付款，那就办理一张虚拟卡，就可以直接付款了，点击获取官方开卡地址](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)
+[如果想要使用支付宝或者微信付款，那就办理一张虚拟卡，就可以直接付款了，点击获取官方开卡地址](https://bit.ly/bewildcard)
 
 ## 如何成为Fantia的创作者？
 
